@@ -23,8 +23,6 @@
         "\n",
         "**Aim:** Train Logistic Regression for binary classification and plot the sigmoid function, decision boundary and ROC curve with AUC.\n",
         "\n",
-        "**Author: Dr. Priya B. Pandharbale**\n",
-        "\n",
         "Dataset: Pima Indians Diabetes (Kaggle). `Outcome`: 0 = Non-diabetic, 1 = Diabetic."
       ]
     },
