@@ -19,7 +19,6 @@
       "source": [
         "# Experiment: Deep Neural Network (DNN) for Digit Classification\n",
         "\n",
-        "**Author: Dr. Priya B. Pandharbale**\n",
         "\n",
         "**Aim:** To build a simple 2–3 layer Deep Neural Network using Keras for handwritten digit classification and visualize model layers, activations and loss.\n",
         "\n",
